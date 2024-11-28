@@ -1,0 +1,25 @@
+# One-Sided vs Two-Sided Tests
+
+### Key Concepts:
+
+1. **One-Sided Test (One-Tailed Test)**
+   - Used when the researcher is interested in testing the effect in a specific direction.
+   - For example, testing if a value is greater than or less than a threshold.
+
+2. **Two-Sided Test (Two-Tailed Test)**
+   - Used when we are interested in testing the effect in both directions.
+   - For example, testing if a value is simply different from a threshold, regardless of whether it is higher or lower.
+
+### Visual Representation:
+- **One-Sided Test**: The rejection region is only on one side of the distribution (either left or right).
+- **Two-Sided Test**: The rejection region is on both sides of the distribution, capturing both possible extremes.
+
+![One-Sided Test Diagram](sandbox:/mnt/data/one_sided_test_diagram.png)
+![Two-Sided Test Diagram](sandbox:/mnt/data/two_sided_test_diagram.png)
+
+### Example
+- In a hypothesis test, if we want to determine whether a value is significantly greater than a known value, we use a one-sided test.
+- If we want to determine if there is any significant difference, either greater or lesser, we use a two-sided test.
+
+---
+This is a summary of the difference between one-sided and two-sided tests, highlighting when each is appropriate and how they differ visually.
